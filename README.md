@@ -1,2 +1,20 @@
-# blog
-Es un proyecto que se dedica al crecimiento de comunidad universitaria a través de un blog de eventos.
+Blog Universidad 365
+
+[Descripción del proyecto]
+
+[Instalación]
+- Requisitos
+- Versión
+- Encargados del proyecto
+
+[Uso]
+- De qué trata y como se usa
+- Plugins
+- Etc.
+
+[Documentación]
+
+
+[Roadmap]
+
+[Licencia]
